@@ -147,10 +147,10 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-<img scr="![alt text](image-1.png)">
+![alt text](image-1.png)
 
 ## HOMEPAGE:
-<img scr="![alt text](image.png)">
+![alt text](image.png)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
